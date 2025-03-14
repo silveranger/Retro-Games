@@ -1,4 +1,10 @@
 # Retro-Games
+
+DESCRIPTION:
+
+Retro Games is gaming website created with the help of streamlit library using python for gamers who would love to experience old school games games. The following website contains four games like Snakes, Tic tac toe, Cars and Flappy bird which are created using python language. The user can select any one of the four games and game will be launched accordingly and the user then can enjoy the game.
+
+
 SCREENSHOTS:
 
 
